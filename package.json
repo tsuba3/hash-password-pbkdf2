@@ -1,0 +1,25 @@
+{
+  "name": "hash-password-pbkdf2",
+  "version": "1.0.0",
+  "description": "Simple password hash library with pbkdf2 and sha512 using auto generated salt.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsuba3/hash-password-pbkdf2.git"
+  },
+  "keywords": [
+    "password",
+    "hash",
+    "pbkdf2",
+    "salt"
+  ],
+  "author": "tsuba3",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tsuba3/hash-password-pbkdf2/issues"
+  },
+  "homepage": "https://github.com/tsuba3/hash-password-pbkdf2#readme"
+}
